@@ -1,0 +1,22 @@
+/* GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&display=swap');
+
+/* VARIABLES */
+:root{
+    --var-color-beige: #e3e1d8;
+    --var-color-yellow: #fcff87;
+    --var-color-brown: #2d2b1e;
+}
+
+*{
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: var(--var-color-beige);
+}
+
+h1{
+    color: var(--var-color-brown);
+}
+
+h2{
+    color: var(--var-color-brown);
+}
